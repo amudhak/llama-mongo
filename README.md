@@ -7,6 +7,9 @@ Create a new Atlas Cluster
 
 % python3 -m pip install "pymongo[srv]"
 % pip install --quiet langchain langchain-openai langchain-mongodb langchain-community pymongo pypdf
+% pip install -U sentence-transformers
+% pip install tf-keras
+% pip install -U langchain-huggingface
 
 % ollama pull llama3
 
